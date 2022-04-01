@@ -1,0 +1,23 @@
+{
+  "name": "prettylittlegames",
+  "version": "1.0.0",
+  "description": "You will find here few little games :  - Tic Tac Toe - Connect Four - and more to come ...",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElsaLebas/prettyLittleGames.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ElsaLebas/prettyLittleGames/issues"
+  },
+  "homepage": "https://github.com/ElsaLebas/prettyLittleGames#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
